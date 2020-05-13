@@ -2,7 +2,7 @@
   {
     "id" : "1",
     "slug" : "jessica-arruda",
-    "image" : "FBI-Jessica-Arruda.jpg",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Jessica-Arruda.jpg",
     "name" : "Jessica Arruda",
     "phone" : "808-345-7102",
     "email" : "jarruda@fbihi.com"
@@ -10,7 +10,7 @@
   {
     "id" : "2",
     "slug" : "teresita-martin",
-    "image" : "FBI-Teresita-Martin.jpg",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Teresita-Martin.jpg",
     "name" : "Teresita Martin",
     "phone" : "808-927-1696",
     "email" : "JTmartin@fbihi.com"
@@ -18,6 +18,7 @@
   {
     "id" : "3",
     "slug" : "michael-anderson",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Michael-Anderson.png",
     "name" : "Michael Anderson",
     "phone" : "808-722-7385",
     "email" : "Manderson@fbihi.com"
@@ -25,6 +26,7 @@
   {
     "id" : "4",
     "slug" : "kamaka-jingao",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Kamaka-Jingao.jpg",
     "name" : "Kamaka Jingao",
     "phone" : "808-286-0022",
     "email" : "Kjingao@fbihi.com"
@@ -32,6 +34,7 @@
   {
     "id" : "5",
     "slug" : "tamlyn-laurence",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Tamlyn-Laurence.jpg",
     "name" : "Tamlyn Laurence",
     "phone" : "808-315-9148",
     "email" : "Tlaurence@fbihi.com"
@@ -39,6 +42,7 @@
   {
     "id" : "6",
     "slug" : "nikki-kida",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Nikki-Kida.jpg",
     "name" : "Nikki Kida",
     "phone" : "808-222-5516",
     "email" : "Ykida@fbihi.com"
@@ -46,6 +50,7 @@
   {
     "id" : "7",
     "slug" : "damien-morales",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Damien-Morales.png",
     "name" : "Damien Morales",
     "phone" : "808-371-8772",
     "email" : "Dmorales@fbihi.com"
@@ -53,6 +58,7 @@
   {
     "id" : "8",
     "slug" : "pauline-spainer",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Pauline-Spainer.jpg",
     "name" : "Pauline Spainer",
     "phone" : "808-343-0042",
     "email" : "Pspainer@fbihi.com"
@@ -60,6 +66,7 @@
   {
     "id" : "9",
     "slug" : "kyle-kwock",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Kyle-Kwock.jpg",
     "name" : "Kyle Kwock",
     "phone" : "808-781-8218",
     "email" : "Kkwock@fbihi.com"
@@ -67,6 +74,7 @@
   {
     "id" : "10",
     "slug" : "herb-kaopua",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Herb-Kaopua.png",
     "name" : "Herb Kaopua",
     "phone" : "808-688-8802",
     "email" : "Hkaopua@fbihi.com"
@@ -74,6 +82,7 @@
   {
     "id" : "11",
     "slug" : "kawela-incillio",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Kawela-Incillio.jpg",
     "name" : "Kawela Incillio",
     "phone" : "808-825-2955",
     "email" : "Kincillio@fbihi.com"
@@ -81,6 +90,7 @@
   {
     "id" : "12",
     "slug" : "caroline-dupio",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Caroline-Dupio.png",
     "name" : "Caroline Dupio",
     "phone" : "808-221-8396",
     "email" : "Cdupio@fbihi.com"
@@ -88,6 +98,7 @@
   {
     "id" : "13",
     "slug" : "frank-rafanan",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Frank-Rafanan.jpg",
     "name" : "Frank Rafanan",
     "phone" : "808-343-0252",
     "email" : "Frafanan@fbihi.com"
@@ -95,6 +106,7 @@
   {
     "id" : "14",
     "slug" : "mj-kim",
+    "image" : "https://ekm383.github.io/fbihi/FBI-MJ-Kim.jpg",
     "name" : "MJ Kim",
     "phone" : "808-321-0770",
     "email" : "MJkim@fbihi.com"
@@ -102,6 +114,7 @@
   {
     "id" : "15",
     "slug" : "brenda-takahashi",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Brenda-Takahashi.png",
     "name" : "Brenda Takahashi",
     "phone" : "808-341-5557",
     "email" : "Btakahashi@fbihi.com"
@@ -109,6 +122,7 @@
   {
     "id" : "16",
     "slug" : "debbie-takafuji",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Debbie-Takafuji.jpg",
     "name" : "Debbie Takafuji",
     "phone" : "808-230-3138",
     "email" : "Dtakafuji@fbihi.com"
@@ -116,6 +130,7 @@
   {
     "id" : "17",
     "slug" : "klem-unciano",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Klem-Unciano.jpg",
     "name" : "Klem Unciano",
     "phone" : "808-354-4880",
     "email" : "Kunciano@fbihi.com"
@@ -123,6 +138,7 @@
   {
     "id" : "18",
     "slug" : "lourdes-dela-cruz",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Lourdes-Dela-Cruz.jpg",
     "name" : "Lourdes Dela Cruz",
     "phone" : "808-393-9549",
     "email" : "Ldelacruz@fbihi.com"
@@ -130,6 +146,7 @@
   {
     "id" : "19",
     "slug" : "zashell-labrador-espinosa",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Zashell-Labrador-Espinosa.jpg",
     "name" : "Zashell Labrador-Espinosa",
     "phone" : "808-217-6063",
     "email" : "Zespinosa@fbihi.com"
@@ -137,6 +154,7 @@
   {
     "id" : "20",
     "slug" : "sherry-lau",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Sherry-Lau.jpg",
     "name" : "Sherry Lau",
     "phone" : "808-497-8866",
     "email" : "SLau@fbihi.com"
@@ -144,6 +162,7 @@
   {
     "id" : "21",
     "slug" : "angie-wahinekapu",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Angie-Wahinekapu.jpg",
     "name" : "Angie Wahinekapu",
     "phone" : "808-987-8783",
     "email" : "Awahinekapu@fbihi.com"
@@ -151,6 +170,7 @@
   {
     "id" : "22",
     "slug" : "wes-sakamoto",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Wes-Sakamoto.jpg",
     "name" : "Wes Sakamoto",
     "phone" : "808-371-1190",
     "email" : "Wsakamoto@fbihi.com"
@@ -158,6 +178,7 @@
   {
     "id" : "23",
     "slug" : "kahale-camara",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Kahale-Camara.jpg",
     "name" : "Kahale Camara",
     "phone" : "808-931-9525",
     "email" : "Kcamara@fbihi.com"
@@ -165,6 +186,7 @@
   {
     "id" : "24",
     "slug" : "pearl-yuen",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Pearl-Yuen.jpg",
     "name" : "Pearl Yuen",
     "phone" : "808-721-0533",
     "email" : "Pyuen@fbihi.com"
@@ -172,6 +194,7 @@
   {
     "id" : "25",
     "slug" : "leeah-tano",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Leeah-Tano.png",
     "name" : "Leeah Tano",
     "phone" : "808-358-1370",
     "email" : "Ltano@fbihi.com"
@@ -179,6 +202,7 @@
   {
     "id" : "26",
     "slug" : "gerald-hirata",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Gerald-Hirata.jpg",
     "name" : "Gerald Hirata",
     "phone" : "808-392-3718",
     "email" : "Ghirata@fbihi.com"
@@ -186,6 +210,7 @@
   {
     "id" : "27",
     "slug" : "claren-afong",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Claren-Afong.png",
     "name" : "Claren Afong",
     "phone" : "808-277-1907",
     "email" : "Cafong@fbihi.com"
@@ -193,6 +218,7 @@
   {
     "id" : "28",
     "slug" : "bricyn-afong",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Bricyn-Afong.png",
     "name" : "Bricyn Afong",
     "phone" : "808-349-3873",
     "email" : "Bafong@fbihi.com"
@@ -200,6 +226,7 @@
   {
     "id" : "29",
     "slug" : "natividad-ragudo-smith",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Natividad-Ragudo-Smith.png",
     "name" : "Natividad Ragudo-Smith",
     "phone" : "808-276-8864",
     "email" : "Nragudosmith@fbihi.com"
@@ -207,6 +234,7 @@
   {
     "id" : "30",
     "slug" : "karen-kwock",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Karen-Kwock.png",
     "name" : "Karen Kwock",
     "phone" : "808-220-2178",
     "email" : "Kckwock@fbihi.com"
@@ -214,6 +242,7 @@
   {
     "id" : "31",
     "slug" : "yukiko-suzuki",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Yukiko-Suzuki.jpg",
     "name" : "Yukiko Suzuki",
     "phone" : "808-330-1758",
     "email" : "Ysuzuki@fbihi.com"
@@ -221,6 +250,7 @@
   {
     "id" : "32",
     "slug" : "manuel-roberto",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Manuel-Roberto.png",
     "name" : "Manuel Roberto",
     "phone" : "808-640-2643",
     "email" : "Mroberto@fbihi.com"
@@ -228,6 +258,7 @@
   {
     "id" : "33",
     "slug" : "laurie-smith",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Laurie-Smith.jpg",
     "name" : "Laurie Smith",
     "phone" : "808-855-5328",
     "email" : "Lsmith@fbihi.com"
@@ -235,6 +266,7 @@
   {
     "id" : "34",
     "slug" : "yolanda-yee",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Yolanda-Yee.jpg",
     "name" : "Yolanda Yee",
     "phone" : "808-651-3247",
     "email" : "Ylee@fbihi.com"
@@ -242,6 +274,7 @@
   {
     "id" : "35",
     "slug" : "alan-lum",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Alan-Lum.jpg",
     "name" : "Alan Lum",
     "phone" : "808-284-4664",
     "email" : "Alum@fbihi.com"
@@ -249,6 +282,7 @@
   {
     "id" : "36",
     "slug" : "jin-ok-ra",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Jin-Ok-Anna-Ra.jpg",
     "name" : "Jin-Ok 'Anna' Ra",
     "phone" : "808-358-8240",
     "email" : "Jra@fbihi.com"
@@ -256,6 +290,7 @@
   {
     "id" : "37",
     "slug" : "austin-uzama",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Austin-Uzama.jpg",
     "name" : "Austin Uzama",
     "phone" : "808-436-4212",
     "email" : "Auzama@fbihi.com"
@@ -263,6 +298,7 @@
   {
     "id" : "38",
     "slug" : "bernice-roberto",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Bernice-Roberto.jpg",
     "name" : "Bernice Roberto",
     "phone" : "808-640-6398",
     "email" : "Broberto@fbihi.com"
@@ -270,6 +306,7 @@
   {
     "id" : "39",
     "slug" : "grace-rous",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Grace-Rous.jpg",
     "name" : "Grace Rous",
     "phone" : "808-384-2588",
     "email" : "Grous@fbihi.com"
@@ -277,6 +314,7 @@
   {
     "id" : "40",
     "slug" : "garry-yee",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Garry-Yee.jpg",
     "name" : "Garry Yee",
     "phone" : "808-349-2720",
     "email" : "Gyee@fbihi.com"
@@ -284,6 +322,7 @@
   {
     "id" : "41",
     "slug" : "stephen-fung",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Stephen-Fung.jpg",
     "name" : "Stephen Fung",
     "phone" : "808-295-5875",
     "email" : "Sfung@fbihi.com"
@@ -291,6 +330,7 @@
   {
     "id" : "42",
     "slug" : "christy-chun",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Christy-Chun.jpg",
     "name" : "Christy Chun",
     "phone" : "808-542-1807",
     "email" : "Cchun@fbihi.com"
@@ -298,6 +338,7 @@
   {
     "id" : "43",
     "slug" : "sue-jorgenson",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Sue-Jorgenson.jpg",
     "name" : "Sue Jorgenson",
     "phone" : "808-389-5073",
     "email" : "Sjorgenson@fbihi.com"
@@ -305,6 +346,7 @@
   {
     "id" : "44",
     "slug" : "suzeth-carreon",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Suzeth-Carreon.jpg",
     "name" : "Suzeth Carreon",
     "phone" : "808-779-9242",
     "email" : "Scarreon@fbihi.com"
