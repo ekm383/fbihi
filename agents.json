@@ -2,7 +2,7 @@
   {
     "id" : "1",
     "slug" : "jessica-arruda",
-    "image" : "fbihi/FBI-Jessica-Arruda.jpg",
+    "image" : "https://ekm383.github.io/fbihi/FBI-Jessica-Arruda.jpg",
     "name" : "Jessica Arruda",
     "phone" : "808-345-7102",
     "email" : "jarruda@fbihi.com"
